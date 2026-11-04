@@ -1,4 +1,4 @@
-# Hello 12D!
+# Hello 12D! - Python
 
 Ez egy próba.
 
